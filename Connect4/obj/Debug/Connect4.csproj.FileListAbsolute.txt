@@ -1,0 +1,14 @@
+C:\Users\brettc\Desktop 3\My Programs\C# Game\Connect4\Connect4\bin\Debug\Connect4.exe.config
+C:\Users\brettc\Desktop 3\My Programs\C# Game\Connect4\Connect4\bin\Debug\Connect4.exe
+C:\Users\brettc\Desktop 3\My Programs\C# Game\Connect4\Connect4\bin\Debug\Connect4.pdb
+C:\Users\brettc\Desktop 3\My Programs\C# Game\Connect4\Connect4\obj\Debug\Connect4.csprojAssemblyReference.cache
+C:\Users\brettc\Desktop 3\My Programs\C# Game\Connect4\Connect4\obj\Debug\Connect4.csproj.CoreCompileInputs.cache
+C:\Users\brettc\Desktop 3\My Programs\C# Game\Connect4\Connect4\obj\Debug\Connect4.exe
+C:\Users\brettc\Desktop 3\My Programs\C# Game\Connect4\Connect4\obj\Debug\Connect4.pdb
+C:\Users\Caleb\Desktop\Programming\C# Projects\Connect4\Connect4\bin\Debug\Connect4.exe.config
+C:\Users\Caleb\Desktop\Programming\C# Projects\Connect4\Connect4\bin\Debug\Connect4.exe
+C:\Users\Caleb\Desktop\Programming\C# Projects\Connect4\Connect4\bin\Debug\Connect4.pdb
+C:\Users\Caleb\Desktop\Programming\C# Projects\Connect4\Connect4\obj\Debug\Connect4.csprojAssemblyReference.cache
+C:\Users\Caleb\Desktop\Programming\C# Projects\Connect4\Connect4\obj\Debug\Connect4.csproj.CoreCompileInputs.cache
+C:\Users\Caleb\Desktop\Programming\C# Projects\Connect4\Connect4\obj\Debug\Connect4.exe
+C:\Users\Caleb\Desktop\Programming\C# Projects\Connect4\Connect4\obj\Debug\Connect4.pdb
