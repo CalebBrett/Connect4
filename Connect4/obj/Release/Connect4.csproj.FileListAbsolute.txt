@@ -1,0 +1,7 @@
+C:\Users\Caleb\Desktop\Programming\C# Projects\Connect4\Connect4\bin\Release\Connect4.exe.config
+C:\Users\Caleb\Desktop\Programming\C# Projects\Connect4\Connect4\bin\Release\Connect4.exe
+C:\Users\Caleb\Desktop\Programming\C# Projects\Connect4\Connect4\bin\Release\Connect4.pdb
+C:\Users\Caleb\Desktop\Programming\C# Projects\Connect4\Connect4\obj\Release\Connect4.csprojAssemblyReference.cache
+C:\Users\Caleb\Desktop\Programming\C# Projects\Connect4\Connect4\obj\Release\Connect4.csproj.CoreCompileInputs.cache
+C:\Users\Caleb\Desktop\Programming\C# Projects\Connect4\Connect4\obj\Release\Connect4.exe
+C:\Users\Caleb\Desktop\Programming\C# Projects\Connect4\Connect4\obj\Release\Connect4.pdb
